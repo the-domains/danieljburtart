@@ -1,6 +1,6 @@
 name: Daniel J Burt
 favicon: null
-layout_spectrum: 0.88716
+layout_spectrum: 0.65787
 typography_spectrum: 0.64105
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#4c4b3a'
     - '#827870'
     - '#f45472'
-  brandStrength: 0.375
-  lightness: 0.8125
-  saturation: 0.1875
-  rhythmicContrast: 1
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
